@@ -1,6 +1,6 @@
 # Heróis da Independência
 
-Este projeto, desenvolvido para a **Imersão Dev com Google Gemini 2024**, presta homenagem aos heróis e heroínas que desempenharam papéis fundamentais na **Independência do Brasil**, comemorada em 7 de setembro.
+Este projeto, desenvolvido para a **Imersão Dev com Google Gemini 2024** *www.alura.com.br*, presta homenagem aos heróis e heroínas que desempenharam papéis fundamentais na **Independência do Brasil**, comemorada em 7 de setembro.
 
 ## Descrição
 
